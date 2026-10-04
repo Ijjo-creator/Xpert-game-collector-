@@ -64,7 +64,7 @@ body {
     height: 60px;
     background: linear-gradient(#ff5252, #b40000);
     border-radius: 15px 15px 10px 10px;
-    bottom: 150px;
+    bottom: 200px;
     left: 50%;
     transform: translateX(-50%);
     z-index: 10;
